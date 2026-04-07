@@ -1,6 +1,7 @@
 HTML Letter Encrypter encrypts scampages and spamming letter undetected by the host. Perfect for protecting sensitive HTML letters, invoices, statements, or any template you don’t want scanned or copy-pasted easily.
 
-![Screenshot](/Sanmao_SMTP_Cracker_1.75.png)
+![Screenshot](/Saga-HMTL-Letter-Encrypter.png)
+![Screenshot](/Saga-HMTL-Letter-Encrypter-1.png)
 
 <h2>🎬 Demo Video</h2>
 <p>
